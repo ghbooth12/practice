@@ -1,2 +1,2 @@
-This is a file.
-This is a new line.
+# Heading1
+## Heading 2
